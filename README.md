@@ -1,2 +1,2 @@
 # aplicacions-web
-# Som uns cracks!!
+# Som uns cracks
